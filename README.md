@@ -1,5 +1,7 @@
 # Dockerized Minecraft Server
 
+**This project has been abandoned and therefore is no longer maintained! You may want to use something different like [itzg/minecraft-server](https://hub.docker.com/r/itzg/minecraft-server).**
+
 ## How to use
 
 Start this Docker image using `docker run`:
